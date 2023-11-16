@@ -1,0 +1,1 @@
+# Symfony Swift base project
